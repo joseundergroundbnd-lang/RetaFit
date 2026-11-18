@@ -1,0 +1,6 @@
+{
+  "name": "RETAFIT",
+  "description": "TRACK YOUR PROGRESS — Aplicación personal de seguimiento de pérdida de peso, nutrición, actividad física y medicación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
